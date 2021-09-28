@@ -6,7 +6,7 @@
 ###### Qian 
 
 
-```> **NKUST**
+> **NKUST**
 >> IM
 >>> 3B
 >>>> *C108118209曾琬茜*
@@ -17,9 +17,9 @@
 
 ```csharp
 private void index(){
-  MessageBox.Show("Hi! This is demo");
+  MessageBox.Show("Hi! This is demo.");
 }
 ``` 
 
 - [ ] not yet
-- [X] finished
+- [X] finished 😄
