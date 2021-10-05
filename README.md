@@ -4,7 +4,9 @@
 #### Qian
 ##### Qian
 ###### ~~Qian~~ 
-Hi! My name is *Wan-Qian*. I'm twenty years old and I major in department of information management at **NKUST**. 
+Hi! My name is *Wan-Qian*. 
+I'm twenty years old.
+I major in department of information management at **NKUST**. 
 
 > **NKUST**
 >> IM
